@@ -1,3 +1,2 @@
-print("Hello Earth!")
-print(1)
-
+a = 1
+b = input()
